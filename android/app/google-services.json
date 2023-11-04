@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994945457481",
+    "project_id": "pokeman-790a2",
+    "storage_bucket": "pokeman-790a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994945457481:android:169f04bec10316123b4e98",
+        "android_client_info": {
+          "package_name": "com.example.pokeman_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSi8aYMJzDDRW1LWuyFZy3KYh5xViVAdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
